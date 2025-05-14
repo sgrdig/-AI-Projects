@@ -1,0 +1,19 @@
+yoloFineTuning/trainModel/__pycache__/renamingData.cpython-39.pyc
+yoloFineTuning/trainModel/datasets
+yoloFineTuning/trainModel/rawData
+yoloFineTuning/trainModel/weights
+yoloFineTuning/trainModel/runs
+yoloFineTuning/trainModel/src/__pycache__
+yoloFineTuning/trainModel/bestResults
+yoloFineTuning/runModel/src/__pycache__
+Calories Challenge Kaggle/train.csv
+Calories Challenge Kaggle/test.csv
+Calories Challenge Kaggle/sample_submission.csv
+Calories Challenge Kaggle/dfTestCsv.csv
+bldc/AiModel.py
+bldc/EDA.ipynb
+bldc/generateddatasets.py
+bldc/lightgbm_model_motor_prediction.py
+bldc/modelLight.ipynb
+bldc/modelXGB.ipynb
+bldc/motor_bldc_arcsec_data.csv
